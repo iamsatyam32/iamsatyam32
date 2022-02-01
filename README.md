@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @iamsatyam32
 - 👀 I’m interested in MERN Stack
-- 🌱 I’m currently Working e-commerce Website 
-- 📫 How to reach me ...https://www.linkedin.com/in/satyam-dighe-a41989229
+- 🌱 I’m currently Working e-commerce Website
