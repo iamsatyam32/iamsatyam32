@@ -17,10 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i_am_sathya_9060_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="i_am_sathya_9060_" height="40" width="40" /></a>
-  
-  
-  <a href="https://www.linkedin.com/in/satyam-dighe-a41989229" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1644392435~hmac=7a5d72f4318eeb60951f5c0dc90038cc" alt="satyam dighe" height="40" width="40" /></a>
+<a href="https://instagram.com/i_am_sathya_9060_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="i_am_sathya_9060_" height="40" width="40" /></a>     <a href="https://www.linkedin.com/in/satyam-dighe-a41989229" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1644392435~hmac=7a5d72f4318eeb60951f5c0dc90038cc" alt="satyam dighe" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
