@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iamsatyam</h1>
+<h1 align="center">Hi 👋, I'm satyam</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
 
 - 🔭 I’m currently working on **E-Commerce App, Real-Time Chat App, Movie Recommendation App, Social Media App,etc**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i_am_satyam_32_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="i_am_sathya_9060_" height="40" width="40" /></a>     <a href="#" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png
+<a href="https://instagram.com/i_am_satyam_32_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="i_am_sathya_9060_" height="40" width="40" /></a>     <a href="https://iconscout.com/icon/linkedin-circle-1868976" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png
 " alt="satyam dighe" height="40" width="40" /></a>
 </p>
 
