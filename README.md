@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i_am_satyam_32_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="i_am_sathya_9060_" height="40" width="40" /></a>     <a href="https://iconscout.com/icon/linkedin-circle-1868976" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85406740/184941342-642b2011-e678-49ea-9697-10d3b3c85f4e.png)
+<a href="https://instagram.com/i_am_satyam_32_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="i_am_sathya_9060_" height="40" width="40" /></a>     <a href="https://iconscout.com/icon/linkedin-circle-1868976" target="blank"><img align="center" src="https://camo.githubusercontent.com/a58c53a62489f04d3a605b1df3fe682abf23fe4468c8deba387b5d9dd77e2d9c/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031372f30382f32322f31312f35362f6c696e6b65642d696e2d323636383730305f5f3334302e706e67
 " alt="satyam dighe" height="40" width="40" /></a>
 </p>
 
